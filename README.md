@@ -1,1 +1,2 @@
-# Simple calculator for addition and subtraction. made in android studio
+# Simple calculator for addition and subtraction.
+Made in android studio
